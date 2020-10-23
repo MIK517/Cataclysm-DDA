@@ -109,7 +109,7 @@
   {
     "id": "kiln_pseudo",
     "type": "TOOL",
-    "name": { "str": "Kiln" },
+    "name": { "str": "clay kiln" },
     "copy-from": "brick_kiln",
     "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "charcoal": 40000 } } ]
   },
